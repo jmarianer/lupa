@@ -9,7 +9,7 @@
 	url = https://github.com/lua/lua.git
 [submodule "third-party/luajit21"]
 	path = third-party/luajit21
-	url = https://luajit.org/git/luajit.git
+	url = https://github.com/LuaJIT/LuaJIT.git
 [submodule "third-party/luajit20"]
 	path = third-party/luajit20
-	url = https://luajit.org/git/luajit.git
+	url = https://github.com/LuaJIT/LuaJIT.git
